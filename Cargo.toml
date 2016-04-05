@@ -4,3 +4,11 @@ version = "0.1.0"
 authors = ["Daniel Wehner <daniel@tag1consulting.com>"]
 
 [dependencies]
+  docopt = "0.6.78"
+  rustc-serialize = "0.3.18"
+  regex = "0.1.55"
+  users = "0.5.1"
+  glob = "0.2.11"
+
+
+
