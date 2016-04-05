@@ -1,0 +1,6 @@
+[package]
+name = "lunchr"
+version = "0.1.0"
+authors = ["Daniel Wehner <daniel@tag1consulting.com>"]
+
+[dependencies]
